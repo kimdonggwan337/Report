@@ -1,0 +1,11 @@
+package SUMiTS_FM_Report_01;
+
+public class Report01 {
+
+	public static void main(String[] args) {
+		System.out.print("aaaa world");
+		// TODO Auto-generated method stub
+
+	}
+
+}
